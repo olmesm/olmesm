@@ -1,9 +1,5 @@
-<a href="https://github.com/olmesm/olmesm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olmesm&count_private=true&layout=compact" />
-</a>
-<a href="https://github.com/olmesm/olmesm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olmesm&count_private=true&hide=javascript,ruby,html,arduino,css&layout=compact" />
-</a>
+| <a href="https://github.com/olmesm/olmesm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=olmesm&count_private=true&layout=compact" /></a> | <a href="https://github.com/olmesm/olmesm"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olmesm&count_private=true&hide=javascript,ruby,html,arduino,css&layout=compact" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 # Oliver Smit
 
