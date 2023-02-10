@@ -13,8 +13,8 @@ Currently a Principal Engineer at a hedgefund. ex-CTO and co-founder of [Radical
 ## Stats
 
 <p align="center">
-  | <a href="https://github.com/olmesm/olmesm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=olmesm&count_private=true&layout=compact&hide_border=true" /></a> | <a href="https://github.com/olmesm/olmesm"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olmesm&count_private=true&hide=javascript,ruby,html,arduino,css,php&layout=compact&hide_border=true" /></a> |
-  | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://github.com/olmesm/olmesm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=olmesm&count_private=true&layout=compact&hide_border=true" /></a> | <a href="https://github.com/olmesm/olmesm"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olmesm&count_private=true&hide=javascript,ruby,html,arduino,css,php&layout=compact&hide_border=true" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 </p>
 
 ## Popular Posts from [ohmybuck.com](https://ohmybuck.com?refer=github)
