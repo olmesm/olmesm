@@ -6,7 +6,7 @@ Currently a Principal Engineer at a hedgefund. ex-CTO and co-founder of [Radical
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,docker,aws,gcp,bash,linux" alt="" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,docker,aws,gcp,ts,js,nodejs" alt="" />
   </a>
 </p>
 
