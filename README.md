@@ -1,6 +1,16 @@
 # Oliver Smit
 
-Co-founder and CTO of [Radically Digital](https://radically.digital). I have over a decade of experience in developing systems for industrial, fintech, and retail application ranging from infrastructure through to accessibility. For the past 7 years I have been living in London, working with talented teams to deliver solutions for scaleups and large enterprises.
+Currently a Principal Engineer at a hedgefund. ex-CTO and co-founder of [Radically Digital](https://radically.digital). I have over a decade of experience in developing systems for industrial, fintech, and retail application ranging from infrastructure through to accessibility. For the past 9 years I have been living in London, working with talented teams to deliver solutions for scaleups and large enterprises.
+
+## Skills
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,docker,aws,gcp,bash,linux" alt="" />
+  </a>
+</p>
+
+## Stats
 
 | <a href="https://github.com/olmesm/olmesm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=olmesm&count_private=true&layout=compact&hide_border=true" /></a> | <a href="https://github.com/olmesm/olmesm"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olmesm&count_private=true&hide=javascript,ruby,html,arduino,css,php&layout=compact&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
