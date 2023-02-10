@@ -5,8 +5,8 @@ Currently a Principal Engineer at a hedgefund. ex-CTO and co-founder of [Radical
 ## Skills
 
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=bash,linux,docker,aws,gcp,ts,js,nodejs" alt="" />
+   <a href="https://github.com/olmesm/olmesm">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,bash,nodejs,ts,js" alt="" />
   </a>
 </p>
 
