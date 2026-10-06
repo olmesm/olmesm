@@ -1,6 +1,6 @@
 # Oliver Smit
 
-Currently a Principal Engineer at a hedgefund. ex-CTO and co-founder of [Radically Digital](https://radically.digital). I have over a decade of experience in developing systems for industrial, fintech, and retail application ranging from infrastructure through to accessibility. For the past 9 years I have been living in London, working with talented teams to deliver solutions for scaleups and large enterprises.
+Currently a Principal Engineer at a hedgefund. ex-CTO and co-founder of [Radically Digital](https://radically.digital). I have over a decade of experience in developing systems for industrial, fintech, and retail application ranging from infrastructure through to accessibility. For the past ~11 years I have been living in London~ _year I have been living in Spain_, working with talented teams to deliver solutions for scaleups and large enterprises.
 
 ## Skills
 
